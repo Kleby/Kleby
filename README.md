@@ -22,8 +22,10 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff "GitHub de João Kleby")](https://github.com/Kleby/)
 
 ##  :bar_chart: Estatísticas GitHub
-<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&layout=compact&langs_count=7&theme=dracula"/> <img loading="github" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a></div>
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kleby&repo=angular_healty-recipes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kleby/angular_healty-recipes)
+
 
 ---
 
