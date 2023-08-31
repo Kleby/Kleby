@@ -9,12 +9,7 @@ Meu nome é João Kleby, desenvolvedor *front-end*, moro em Rainha Isabel Interi
 Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas reais e assim ajudo na vida das pessoas direta e indiretamente.
 
 ---
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
---
 ## Repositório GitHub:computer:
 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff "GitHub de João Kleby")](https://github.com/Kleby/)
@@ -63,10 +58,7 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
 
 ---
 
-##  <img src="https://media.tenor.com/WHUtiaYJmI8AAAAC/contact-me-call-me.gif" width="60"/> Contato
+##  <img src="https://media.tenor.com/WHUtiaYJmI8AAAAC/contact-me-call-me.gif" width="40"/> Contato
 
-<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=fff "Linkedin de João Kleby")](https://www.linkedin.com/in/jkleby/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white  "Instagram de João Kleby")](https://www.instagram.com/klebyveiga/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  "WhatsApp de João Kleby")](https://api.whatsapp.com/send/?phone=5554936181097&text&type=phone_number&app_absent=0)
-=======
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=fff "Linkedin de João Kleby")](https://www.linkedin.com/in/jkleby/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white  "Instagram de João Kleby")](https://www.instagram.com/klebyveiga/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  "WhatsApp de João Kleby")](https://api.whatsapp.com/send/?phone=5554936181097&text&type=phone_number&app_absent=0)
->>>>>>> 7201adc84dcd00f5b055f598665a376d338e75fa
+
