@@ -1,6 +1,6 @@
-# Olá! Seja bem vindo ao meu repositório 👋
+# Olá! Eu sou Kleby 👨🏻‍💻
 
-
+## Seja bem vindo ao meu repositório 👋
 
 ## 🚀 Sobre mim
 
@@ -9,7 +9,12 @@ Meu nome é João Kleby, desenvolvedor *front-end*, moro em Rainha Isabel Interi
 Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas reais e assim ajudo na vida das pessoas direta e indiretamente.
 
 ---
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
+--
 ## Repositório GitHub:computer:
 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff "GitHub de João Kleby")](https://github.com/Kleby/)
