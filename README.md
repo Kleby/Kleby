@@ -19,7 +19,6 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
 
 <!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kleby&repo=angular_healty-recipes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF theme)](https://github.com/Kleby/angular_healty-recipes) -->
 
-![snake animation](https://github.com/Kleby/Kleby/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
