@@ -1,6 +1,6 @@
-# Olá! Seja bem vindo ao meu repositório 👋
+# Olá! Eu sou Kleby 👨🏻‍💻
 
-
+## Seja bem vindo ao meu repositório 👋
 
 ## 🚀 Sobre mim
 
@@ -9,27 +9,35 @@ Meu nome é João Kleby, desenvolvedor *front-end*, moro em Rainha Isabel Interi
 Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas reais e assim ajudo na vida das pessoas direta e indiretamente.
 
 ---
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/Kleby/Kleby/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
-## 🛠 Habilidades
-
-<div>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="logo html"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="logo css"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="logo javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="logo react"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="logo TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="logo Angular"/>
-	</div>
----
-
+--
 ## Repositório GitHub:computer:
 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff "GitHub de João Kleby")](https://github.com/Kleby/)
 
 ##  :bar_chart: Estatísticas GitHub
-<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&layout=compact&langs_count=7&theme=dracula"/> <img loading="github" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a></div>
+<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&layout=compact&langs_count=7&theme=highcontrast"/> <img loading="github" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></a></div>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kleby&repo=angular_healty-recipes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Kleby/angular_healty-recipes)
+<!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kleby&repo=angular_healty-recipes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF theme)](https://github.com/Kleby/angular_healty-recipes) -->
 
+![snake animation](https://github.com/Kleby/Kleby/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
- ## 🧠 Estou aprendendo
+
+## 🛠 Habilidades
+
+<div>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="logo html"title="Logo html"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="Logo css" title="Logo css" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="logo javascript" title="logo javascript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="logo react" title="logo react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="logo TypeScript" title="logo TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="logo Angular" title="logo Angular" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Logo Sass" title=="Logo Sass" width="40" height="40" />         
+</div>
+
+---
+
+## 🧠 Estou aprendendo
 
 <ul>
     <li
@@ -57,4 +65,4 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
 
 ##  <img src="https://media.tenor.com/WHUtiaYJmI8AAAAC/contact-me-call-me.gif" width="60"/> Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=fff "Linkedin de João Kleby")](https://www.linkedin.com/in/jkleby/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white  "Instagram de João Kleby")](https://www.instagram.com/klebyveiga/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  "Instagram de João Kleby")](https://api.whatsapp.com/send/?phone=5554936181097&text&type=phone_number&app_absent=0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=fff "Linkedin de João Kleby")](https://www.linkedin.com/in/jkleby/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white  "Instagram de João Kleby")](https://www.instagram.com/klebyveiga/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  "WhatsApp de João Kleby")](https://api.whatsapp.com/send/?phone=5554936181097&text&type=phone_number&app_absent=0)
