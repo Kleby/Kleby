@@ -16,7 +16,6 @@ jobs:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
           github_user_name: Kleby
-          snake_color: 'blue'
 
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
@@ -29,7 +28,7 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21
+            dist/github-snake-dark.svg?color_snake=blue&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21
             dist/ocean.svg?color_snake=orange&color_dots=rgba(191,214,246,0.2),#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             
       - uses: crazy-max/ghaction-github-pages@v2.1.3
