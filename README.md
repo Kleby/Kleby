@@ -72,5 +72,5 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
 
 ##  <img src="https://media.tenor.com/WHUtiaYJmI8AAAAC/contact-me-call-me.gif" width="40"/> Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=fff "Linkedin de João Kleby")](https://www.linkedin.com/in/jkleby/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white  "Instagram de João Kleby")](https://www.instagram.com/klebyveiga/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  "WhatsApp de João Kleby")](https://api.whatsapp.com/send/?phone=558798166214&text&type=phone_number&app_absent=0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=fff "Linkedin de João Kleby")](https://www.linkedin.com/in/jkleby/)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white  "Instagram de João Kleby")](https://www.instagram.com/klebyveiga/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  "WhatsApp de João Kleby")](https://api.whatsapp.com/send/?phone=5587981662214&text&type=phone_number&app_absent=0)
 
