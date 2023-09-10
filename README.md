@@ -15,7 +15,7 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Kleby/)
 
 ##  :bar_chart: Estatísticas GitHub
-<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&layout=compact&langs_count=7&theme=highcontrast&count_private=false"/> <img loading="github" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false"/></a></div>
+<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&layout=compact&langs_count=7&theme=dracula&count_private=false"/> <img loading="github" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/></a></div>
 
 <!--[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kleby&repo=angular_healty-recipes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF theme)](https://github.com/Kleby/angular_healty-recipes) -->
 ![snake animation](https://github.com/Kleby/Kleby/blob/output/github-snake-dark.svg)
