@@ -19,9 +19,14 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Kleby/)
 
 ##  :bar_chart: Estatísticas GitHub
-<div><a href="https://github.com/Kleby"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kleby&layout=compact&langs_count=7&theme=dracula&count_private=false"/> <img loading="github" height="180em" src="https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true&layout=compact"/></a></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&show_icons=true&theme=dracula)](https://github.com/kleby/kleby)
+
+![Kleby estatus do Github](https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&layout=compact&locale=pt-br&icon_color=AAAA88&bg_color=002244)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&show_icons=true&theme=dracula&locale=pt-br&icon_color=AAAA88&bg_color=002244)](https://github.com/kleby/kleby)
+
+
+
 
 --
 
