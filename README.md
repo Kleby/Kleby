@@ -21,7 +21,7 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
 ##  :bar_chart: Estatísticas GitHub
 
 
-![Kleby estatus do Github](https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&layout=compact&locale=pt-br&icon_color=AAAA88&bg_color=002244)
+![Kleby estatus do Github](https://github-readme-stats.vercel.app/api?username=kleby&show_icons=true&theme=radical&show_owner=true&layout=compact&locale=pt-br&icon_color=AAAA88&bg_color=002243)
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleby&show_icons=true&theme=dracula&locale=pt-br&icon_color=AAAA88&bg_color=002244)](https://github.com/kleby/kleby)
 
