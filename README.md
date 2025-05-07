@@ -4,10 +4,11 @@
 
 ## 🚀 Sobre mim
 
-Meu nome é João Kleby, desenvolvedor *front-end*, moro em Rainha Isabel Interior de Pernambuco e sempre fui apaixonado por tecnologia desde que conheci o mundo de luzes, interação, desafios e imaginação que é o video game. Já fiz vários projetos desde que iniciei nessa jornada *dev*, são projetos simples até algumas mais complexas.
+Meu nome é João Kleby Veiga — mas pode me chamar só de Kleby. Sou desenvolvedor front-end com foco em Angular e JavaScript, apaixonado por transformar ideias em interfaces funcionais e úteis. Atualmente, moro em Rainha Isabel, no interior de Pernambuco, onde coloco a tecnologia para trabalhar em favor de pessoas e empresas todos os dias.
 
-Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas reais e assim ajudo na vida das pessoas direta e indiretamente.
+Minha jornada começou nos videogames, que despertaram minha curiosidade por sistemas, lógica e interatividade. Desde então, mergulhei de cabeça no desenvolvimento web e venho evoluindo continuamente, seja com projetos pessoais ou soluções reais em empresas como Constrular e My Big Whale.
 
+Gosto de ver meu código sendo útil de verdade — seja automatizando processos, melhorando experiências ou organizando informações de forma eficiente. Estou sempre em busca de aprender mais, porque acredito que conhecimento aplicado é transformação na prática.
 ---
 
 
